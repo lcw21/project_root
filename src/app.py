@@ -1,3 +1,3 @@
 print('Hello world')
 
-print("my name is chaewon")
+print("my name is Leechaewon")
